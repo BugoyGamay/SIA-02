@@ -61,7 +61,7 @@ background: rgba(100,100,100,0.2);
   font-size: 2rem;
 }
 .topnav .active {
-  background: var(--yellow);
+  background-color: var(--yellow);
 }
 
 body {
